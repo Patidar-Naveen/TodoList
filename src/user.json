@@ -1,0 +1,63 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "fName": "Harsh",
+      "lName": "Kothari",
+      "uName": "harshkothari.hk",
+      "Email": "harsh@gmail.com",
+      "Pass": "harsh123",
+      "TaskList": [
+        {
+          "title": "sdas",
+          "priority": "Highest"
+        }
+      ]
+    },
+    {
+      "fName": "Naveen",
+      "lName": "Patidar",
+      "uName": "naveen",
+      "Email": "naveen@gmail.com",
+      "Pass": "Naveen@1",
+      "id": 2,
+      "TaskList": [
+        {
+          "title": "mobile charging",
+          "priority": "Highest"
+        },
+        {
+          "title": "sleeping",
+          "priority": "Highest"
+        }
+      ]
+    },
+    {
+      "fName": "gaurav",
+      "lName": "bhava",
+      "uName": "gauravrock",
+      "Email": "gaurav@gmail.com",
+      "Pass": "gaurav123",
+      "TaskList": [],
+      "id": 3
+    },
+    {
+      "fName": "jeff",
+      "lName": "sfsad",
+      "uName": "saasdsadsa",
+      "Email": "jeff@gmail.com",
+      "Pass": "jeff1234",
+      "TaskList": [
+        {
+          "title": "sdas",
+          "priority": "Low"
+        },
+        {
+          "title": "sdasd",
+          "priority": "Lowest"
+        }
+      ],
+      "id": 4
+    }
+  ]
+}
