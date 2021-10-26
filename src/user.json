@@ -9,55 +9,26 @@
       "Pass": "harsh123",
       "TaskList": [
         {
-          "title": "sdas",
-          "priority": "Highest"
+          "title": "sad",
+          "priority": "2",
+          "flag": false
         }
       ]
     },
     {
-      "fName": "Naveen",
-      "lName": "Patidar",
-      "uName": "naveen",
+      "fName": "naveen",
+      "lName": "patidar",
+      "uName": "naveenpatidar",
       "Email": "naveen@gmail.com",
-      "Pass": "Naveen@1",
-      "id": 2,
+      "Pass": "Naveen@123",
       "TaskList": [
         {
-          "title": "mobile charging",
-          "priority": "Highest"
-        },
-        {
-          "title": "sleeping",
-          "priority": "Highest"
-        }
-      ]
-    },
-    {
-      "fName": "gaurav",
-      "lName": "bhava",
-      "uName": "gauravrock",
-      "Email": "gaurav@gmail.com",
-      "Pass": "gaurav123",
-      "TaskList": [],
-      "id": 3
-    },
-    {
-      "fName": "jeff",
-      "lName": "sfsad",
-      "uName": "saasdsadsa",
-      "Email": "jeff@gmail.com",
-      "Pass": "jeff1234",
-      "TaskList": [
-        {
-          "title": "sdas",
-          "priority": "Low"
-        },
-        {
-          "title": "sdasd",
-          "priority": "Lowest"
+          "title": "gym",
+          "priority": "2",
+          "flag": false
         }
       ],
-      "id": 4
+      "id": 2
     }
   ]
 }
